@@ -1,0 +1,6 @@
+c:\users\mylenovo\documents\visual studio 2015\Projects\P2_2_1204011\P2_2_1204011\bin\Debug\P2_2_1204011.exe.config
+C:\Users\MyLenovo\documents\visual studio 2015\Projects\P2_2_1204011\P2_2_1204011\bin\Debug\P2_2_1204011.exe
+C:\Users\MyLenovo\documents\visual studio 2015\Projects\P2_2_1204011\P2_2_1204011\bin\Debug\P2_2_1204011.pdb
+C:\Users\MyLenovo\documents\visual studio 2015\Projects\P2_2_1204011\P2_2_1204011\obj\Debug\P2_2_1204011.csprojResolveAssemblyReference.cache
+C:\Users\MyLenovo\documents\visual studio 2015\Projects\P2_2_1204011\P2_2_1204011\obj\Debug\P2_2_1204011.exe
+C:\Users\MyLenovo\documents\visual studio 2015\Projects\P2_2_1204011\P2_2_1204011\obj\Debug\P2_2_1204011.pdb
